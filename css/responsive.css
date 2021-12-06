@@ -20,11 +20,3 @@
     }
 }
 
-@media screen and (max-width:700px){
-    .mural-trailers{
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 8px;
-    }
-    
-}
